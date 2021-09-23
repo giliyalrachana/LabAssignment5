@@ -1,0 +1,7 @@
+C:\Users\giliy\Desktop\Codes\Git and GitHub\LabAssignment5\LabAssignment5\LabAssignment5\bin\Debug\LabAssignment5.exe.config
+C:\Users\giliy\Desktop\Codes\Git and GitHub\LabAssignment5\LabAssignment5\LabAssignment5\bin\Debug\LabAssignment5.exe
+C:\Users\giliy\Desktop\Codes\Git and GitHub\LabAssignment5\LabAssignment5\LabAssignment5\bin\Debug\LabAssignment5.pdb
+C:\Users\giliy\Desktop\Codes\Git and GitHub\LabAssignment5\LabAssignment5\LabAssignment5\obj\Debug\LabAssignment5.csproj.AssemblyReference.cache
+C:\Users\giliy\Desktop\Codes\Git and GitHub\LabAssignment5\LabAssignment5\LabAssignment5\obj\Debug\LabAssignment5.csproj.CoreCompileInputs.cache
+C:\Users\giliy\Desktop\Codes\Git and GitHub\LabAssignment5\LabAssignment5\LabAssignment5\obj\Debug\LabAssignment5.exe
+C:\Users\giliy\Desktop\Codes\Git and GitHub\LabAssignment5\LabAssignment5\LabAssignment5\obj\Debug\LabAssignment5.pdb
